@@ -1,0 +1,4 @@
+[00:00:42]: [Join Announcement] Khanh1
+[00:01:53]: [Join Announcement] Mr.Ty
+[00:02:28]: [Join Announcement] khuongnguyen0723
+[00:15:25]: [Leave Announcement] Khanh1

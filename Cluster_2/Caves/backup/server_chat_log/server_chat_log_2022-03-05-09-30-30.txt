@@ -1,0 +1,10 @@
+[00:00:46]: [Join Announcement] Khanh1
+[00:04:03]: [Join Announcement] Mr.Ty
+[00:06:44]: [Join Announcement] khuongnguyen0723
+[00:13:34]: [Death Announcement] khuongnguyen0723 was killed by Misery Boomshroom. He became a spooky ghost!
+[00:16:47]: [Death Announcement] Khanh1 was killed by Misery Toadstool. She became a spooky ghost!
+[00:20:29]: [Death Announcement] Mr.Ty was killed by Misery Toadstool. He became a spooky ghost!
+[00:20:44]: [Vote Announcement] rollback passed
+[00:21:56]: [Leave Announcement] Khanh1
+[00:21:56]: [Leave Announcement] khuongnguyen0723
+[00:21:56]: [Leave Announcement] Mr.Ty

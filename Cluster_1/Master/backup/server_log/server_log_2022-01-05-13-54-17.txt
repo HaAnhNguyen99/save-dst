@@ -1,0 +1,1063 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 37%
+	Available Physical Memory: 10203m/16260m
+	Available Page File: 9795m/18692m
+	Available Virtual Memory: 134213489m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 206k
+	Quota Page Pool Usage: 202k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/857337148/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 490729
+[00:00:00]: Current time: Sun Jan 02 22:44:53 2022
+
+[00:00:00]: Don't Starve Together: 490729 WIN32
+[00:00:00]: Build Date: 560
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 6208 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198817602876 -ownerdir 857337148 -backup_log_count 25 -backup_log_period 0 -ugc_directory C:\\Program Files (x86)\\Steam\\steamapps\\workshop -shard Master -sigprefix DST_Master -region Sing -token *********************************************************************************** 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (10716)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:4.24
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (13384)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: Overriding region to Sing
+[00:00:00]: THREAD - started 'StreamInput' (13420)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/857337148/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/857337148/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/857337148/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198817602876
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Pro
+    version                   10.0.19042
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2801
+    name                      Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 2048
+    videoModeDescription      1920 x 1200 x 4294967296 colors
+    name                      AMD Radeon R9 M370X
+    driverVersion             15.200.1060.0
+    driverDate                20150715000000.000000-000
+    refreshRate               60
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: WARNING: icon paths for mod workshop-597417408 (1.Less lags) are not valid. Got icon_atlas="images/modicon.xml" and icon="modicon.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-1595631294	
+[00:00:01]: modoverrides.lua enabling workshop-2485482489	
+[00:00:01]: modoverrides.lua enabling workshop-2321974509	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-666155465	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2321974509	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2485482489	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:01]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:00:01]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.57	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2321974509_CLIENT	
+[00:00:01]: Loading mod: workshop-2321974509 (Automatic chest sorting) Version:1.0.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2485482489_CLIENT	
+[00:00:01]: Loading mod: workshop-2485482489 (Ocean Currents) Version:1.61	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1595631294	
+[00:00:01]: Overriding mod workshop-1595631294's option SaltBox with value false	
+[00:00:01]: Overriding mod workshop-1595631294's option BundleItems with value false	
+[00:00:01]: Overriding mod workshop-1595631294's option Digornot with value false	
+[00:00:01]: Overriding mod workshop-1595631294's option ChangeSkin with value true	
+[00:00:01]: Overriding mod workshop-1595631294's option Icebox with value false	
+[00:00:01]: Overriding mod workshop-1595631294's option DragonflyChest with value false	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2485482489	
+[00:00:01]: Overriding mod workshop-2485482489's option CURRENTSTRENGTH with value 1	
+[00:00:01]: Overriding mod workshop-2485482489's option CURRENTSIZE with value 5	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-2321974509	
+[00:00:01]: Overriding mod workshop-2321974509{
+   "+OztJyRENJVQtXB/g40fPiD3z362ib4LTvqPedq4bKw=": {
+      "expiry": 1673136991.50691,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641600991.506913
+   },
+   "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
+      "expiry": 1672914087.166445,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641378087.166448
+   },
+   "3KuKnq3oYiB8kTfcAl6+lpTA7jhgk/KWszM/2A9L1KQ=": {
+      "expiry": 1673101871.930189,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641565871.930191
+   },
+   "4AGT3lHihuMSd5rUj7B4u6At0jlSH3HFePovjPR+oLE=": {
+      "expiry": 1670803150.067524,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1639267150.06753
+   },
+   "5L5D56r3I3hQZ0MBOgIE3gJGMQBSfEmi/oiEVkpi860=": {
+      "expiry": 1673078149.067112,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641542149.06717
+   },
+   "5fyrCMMlDZUb9yul0EjOkgmzU4abdzonGe787JGw8RA=": {
+      "expiry": 1673144119.160227,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641608119.160229
+   },
+   "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
+      "expiry": 1668700244.560113,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1637164244.560116
+   },
+   "9dIbFEEeziWb+0E2GCZHBFrXZfZe1HMakrhcOTIQ7Ho=": {
+      "expiry": 1673141833.349775,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641605833.349779
+   },
+   "9nrkhGu3SztymKXAdjpSXE/tnvL9ekmBZt6RNnFmpsk=": {
+      "expiry": 1673068091.398095,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641532091.398098
+   },
+   "A76zaHjNLBzcAO/fBY/UOB40PGszXba6/JZpg9Mqru8=": {
+      "expiry": 1666620269.270634,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1635084269.270637
+   },
+   "AVsuOZgBg0wdpKMoxm8zihjqET8kI4Xl8bCSMk28RsE=": {
+      "expiry": 1672528565.898973,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1640992565.899001
+   },
+   "Bb6CfwBW9xa4G2DyhI27lujzIm9QMX4njeP0qgg7n+Y=": {
+      "expiry": 1648905283.222998,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1633353283.223001
+   },
+   "C+FmIKkby6L8/mnB/DgcXRIdD+jDForL1XAfXmiVsLY=": {
+      "expiry": 1673144465.375269,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608465.375272
+   },
+   "CAoynrd73kf+1KRReKSCpZBcDVU3WMlwGfrX6uU71nA=": {
+      "expiry": 1642244251.962498,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1639652251.962503
+   },
+   "GHwHwhJbBRKfmBe7g8pGeiNBUcvgEc0oEmsTF6bSaao=": {
+      "expiry": 1641618491.359208,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641532091.35921
+   },
+   "KSH0DlIipu3gTavPkGKLQfL3Xe5yc6qtwTJJNqV7p1E=": {
+      "expiry": 1664111487.429607,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1632575487.429609
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1652260762.468792,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641374362.468795
+   },
+   "MhYTIJs80X66BUtRhjZp9L6K+Y7rPdrjm03/ocxA+AI=": {
+      "expiry": 1673101456.881888,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641565456.881891
+   },
+   "NZ0adc14qE6UulCVIKyiGgjmH1YmPyo7qEytkqhf7FA=": {
+      "expiry": 1670828018.158194,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1639292018.158196
+   },
+   "NzqSo4gYtxzMPnZjt+sL3TivT9sexhhFiYYNXe3kpWk=": {
+      "expiry": 1673144465.373139,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608465.373141
+   },
+   "OEkKQspDfavmhD3HMyMAkRBvo2B+/q6MxixfTcxdNKE=": {
+      "expiry": 1662796392.855629,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1631260392.855632
+   },
+   "ONcAAJVig1iP0Y5WdEsiEWgyDa15SAHzbfZ8vxGI/8A=": {
+      "expiry": 1641464486.407506,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641378086.407509
+   },
+   "PHJWs6Qmbk9lnt5zDKUy3PzcFPrQLA3JW52/+HCiYx8=": {
+      "expiry": 1672983325.697824,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641447325.697827
+   },
+   "Q2sSfXHblKGx9GS5H+mbMFkUXXFUaP6at4n3UAzWo9A=": {
+      "expiry": 1647028505.782743,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1631260505.782746
+   },
+   "RntBv9wufJFidvZu9AW3S+Y1ORWlPIdsLPzyJt9FQWk=": {
+      "expiry": 1673076156.98229,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641540156.982293
+   },
+   "S9KO3ZIAe9t7DFHEPgPVV3BYzebssWQhESOnV8uBypk=": {
+      "expiry": 1662796506.141576,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1631260506.141579
+   },
+   "SUYpWSvD43lYU1MyqAma0ZXEByrjmOG3qGzyIANrewc=": {
+      "expiry": 1673140518.102099,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641604518.102101
+   },
+   "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
+      "expiry": 1656746078.376076,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641194078.376079
+   },
+   "V0AKecsOrJT5Zaep3ihQDwznIz6Ige22YhmWPKZ4Pyk=": {
+      "expiry": 1664120431.567623,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1632584431.567625
+   },
+   "VsytDvBf4Kwm68I6dEHZAOdTxDV3LgnvH5HyM66t4mI=": {
+      "expiry": 1673144721.156945,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641608721.156948
+   },
+   "YKXUtqz9BYcSyXeUmWyOGPgHmdEnZunalvA3Mru8pek=": {
+      "expiry": 1641533724.489312,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641447324.489315
+   },
+   "YhfSy4/81OHmod6cCdfmGA8kCqsfBocFwwBJsSa6cqY=": {
+      "expiry": 1673144119.300773,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641608119.300776
+   },
+   "ZEWEC3ZYMNiqMB7zzUF5yCbeFr0xAbchlsQdSbETuW4=": {
+      "expiry": 1673144661.396513,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608661.396517
+   },
+   "ZZ5FY8zKlZVyphTYDyRgcbKmCt89Hwe3K70jDfZpY9o=": {
+      "expiry": 1673137276.862261,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641601276.862268
+   },
+   "ZcJyPPPM5lm3GOCGM6GjdrjyVEgtoY70SpazLVMxDzM=": {
+      "expiry": 1641630972.736233,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641544572.736235
+   },
+   "e3SziuwfuO2UvuBno+qkR1ObHAzZmSUoJhrc7dbP1Uo=": {
+      "expiry": 1672914079.355745,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641378079.355748
+   },
+   "f0iR59Ww52lEIsIJNKJEzgRuoxyZ5YjNhN2UO/ZvGp0=": {
+      "expiry": 1670489206.321633,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1638953206.32164
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1651917220.050524,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641030820.050527
+   },
+   "hP/+C4VX2PqdYR7UGkv2SYnV9d0s50j/77Pk200ytfs=": {
+      "expiry": 1673091668.061561,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641555668.061568
+   },
+   "i2f3oIgjsjaYYmjrBHb4KRUrF0fEp5pT53K8oVQYuRY=": {
+      "expiry": 1673144115.041685,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608115.04169
+   },
+   "iYgmedNb51g1H+fHVWJc6Ugwe3bEBwflaQ2RE9I8CcQ=": {
+      "expiry": 1673088671.650131,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641552671.650133
+   },
+   "izLuyJEGlUAs5bgQJL7d8k9C0uAe2LCxQLtd3pJxxAQ=": {
+      "expiry": 1673108659.868521,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641572659.868524
+   },
+   "jeInjoOH2naHhU05KPpfB36RMT3xBHOK9lZktGAmZV4=": {
+      "expiry": 1665666030.095696,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1634130030.095698
+   },
+   "kYxWDeIDVgesBS02XkmPRTIpB0nkimBvKZESXctn8eA=": {
+      "expiry": 1672983867.580014,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641447867.580017
+   },
+   "o2IYBXuCor563MpvKYfty1TipqnfrIDGKTxlN9vKRjo=": {
+      "expiry": 1673108657.238925,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641572657.238928
+   },
+   "oQmjXOEJPPY5VulJNLfyNDrL1y4JaMRUHEHh+jqexUg=": {
+      "expiry": 1672914099.700757,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641378099.700759
+   },
+   "pJ96+OAUKnE1v8r4Qbpji8aUon51OZ+goWFgzuP6uxw=": {
+      "expiry": 1673094253.358363,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641558253.358365
+   },
+   "pfmWnB4Y7obVfQNriJe7Ilq0KbCcKR6onsqYjEm0Yxg=": {
+      "expiry": 1673144114.944385,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608114.94439
+   },
+   "qsWi9XJoxtYLzZIqY1GG7YQ9qQt+33vWPeJ/NA8HNXs=": {
+      "expiry": 1641464829.643145,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641378429.643147
+   },
+   "sP8QDiiytBABABQy3xv8TXcyNJQ4B1y5t+W1QP3Ramo=": {
+      "expiry": 1671858532.234366,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1640322532.234375
+   },
+   "tXw1n3R0qZgg5scDRTMJ08CrsnPy9grM1gkF26zLcFs=": {
+      "expiry": 1673144465.482754,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641608465.482756
+   },
+   "v9mbtEX1L5gjkq2G6sUrJvxI4AjRjBXSYlPYJY60kD8=": {
+      "expiry": 1673076348.327264,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1641540348.327268
+   },
+   "w3BcP89fltyGeHFvfqW1VXrhzKrPPCFI1zzjvthuJzk=": {
+      "expiry": 1673144719.562675,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641608719.562678
+   },
+   "w5n1T2Buzc6U6hZ/hkMDNTNk2CKWsVQOoO1dZv7s0dw=": {
+      "expiry": 1673140518.085686,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641604518.08569
+   },
+   "wOuZXJ9/k6locwte0Jj3oMdcwwMQErJzo00gVaz0Llw=": {
+      "expiry": 1670654414.366825,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1639118414.366828
+   },
+   "wy+BS3trBvJlitjD0mjFEQUdFwo2za2cYZpYdyC7A5Y=": {
+      "expiry": 1673094253.398645,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1641558253.398647
+   },
+   "xmqkhZRNVKqXh87BOuVcrlioZhSKyTd3m5caGyKTnvo=": {
+      "expiry": 1670308137.977952,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1638772137.977955
+   },
+   "z7jbAshNc4CBc1MqGt/Wr2l3ORAEXdFfVP3PbOEZ7KA=": {
+      "expiry": 1666961580.136895,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1635425580.136898
+   }
+}
+                                                                                                                                                                                                                                                                       A~¬	çb6x¸$ò¡ş2>2ş ş ş Î ş€A.&Ø,vò
+	q^ sBo k:T\^d 2Å¨ö¡ğihÁº*š(şVşØşØşØÎØ¸&âNa,~x!6h:Vl‹ì2ìR”S^ŞŠ Îa bşÆòÆ†ÄD´„é‚Jo,/ ?ŒÁ^$Lj1¤€ 2Æş¢¢@Áêœ>ªL 1’¶ Nm46Ü%öG éäGV¬.4#Z²*aÒhì.ğ.@˜fa¦Ö+ e(~¶*\!hf&$5!dô`,‡Œ6®*Á¾â1ºÂ 8òvÄPè?  O,I O N SŠàZ(	®h¦p G`O M P E,A T8<ğ  \ "fÌDît–¦’!¢  ²,0ö¤X5†Ğ	a<X<) e²l[. 8fvø!0FM¦6;!„ c%,ŠÀ7!BtD&: )M¢ö†"ğ‰$.>	n ¶Ì¡Äl.H©ÎNIîp¾"P€aœT7Ş˜O SE^!^€ !ØÀmzT c%Òa‰Òéu%¨& b	*1Xa!¢C^¾T ã^ ì¼"á(A(†9šnüx) gú>& h"¬C8¤îk@XüZT Ù YEĞH ÌNœR28	,B A O   B Ì Z~ Ae,XAĞ dNo (8nA|¼E`vANÈ8î&2ˆ Bºâ?´?6o¾?È`A’Êa6`(q2änpjs cuˆ&Ê8¸ æbšo&àn>| IöVÜ CxtÁˆa¢ eşº?º?&ì¸Œ w .e´ d…X¨àD8!"¤‰^4!€a6NR…b gŒ r8ˆ$ w"…	<.…\N xşÚÊÚ°U:
+&x&Aì–>N T8w9¦^Jæ=á ‰BöâşºşºşºşºNºæC!À–fH~^º¨JAÁäL˜¡Ôş¼>¼şÌfÌ67xH 1b&Ä
+–TÆI’ş
+¦
+ajÜ'Î!T~Ìú]> sÅ¤t ÏbV¡&”–\ş¸^¸ wæ&‚#!Fªœ .µ6¡0p6,Ô
+…hh)4]vI
+$$6At0)
+$.ŒR@*F¡~ 
+ŞI7 lD dşNÂNn.¼I®–”dGáJ6
+€@fÂO lŠZ# h%NIÂş˜|!>N#şşR†şRVhPqÊKbÙfáğ n*6@ ü =ì e, 9î<  2E:Ap 0B*	A0tf™	AH nÄ>ˆ	á¤	
+ô$áø(	<9á0şŠ‘¢30 0|AÚ	Ôp^	Ræ f¥„àfÂ p:Œ	6 aŒA&	 vÆK	ZP	Ô	œŒ	a’
+q¬	`±¶Œ™I€aüşúúi^Ò‚’BAŞ iÒw dèHˆ^øT°Ydr!‚A^Ü!°y„
+I1&ÎIRò'D
+ n…‘Òb.B–8Q>êA*ºâX4Q0Fpá¬Y(èhY$ `!¼ºŸ.ŞM¨àI„â†8œy4€RF ö€ş¶Ö¶ILPlF.ALş¶L ×´7!ÀAx6 mqáºdæL¤e<>F{|< Ã´Nèv ô~M&¾.P€äP¶‚rFüsˆş0¶üãÀşF8.N d–ê h˜&°	>¾áØA` àEäæ.HÖd1 n^VAà iFašiRA†ÎAÖªa A ª(!Êö”FhpÖ0-ê	
+ö	5 /"¼Iô¤º,4qv2Á\0-ÊŞ,°2œ¤ -&şp¾p0^ğø¤1!Z~²
+æ‚AğÁn Ù(IF8F óbŠ.Î	øşÔ>ÔÈ
+c o
+/	!ä h¥ˆ bÀ›"T-À]€ t"è3îrK6Ôş¦¾¦ 5%°Ô0!¸°h<Ta¾ğ^0/ ker gş’ş’ş’ş’º’†5 4¢^!j„îƒ^’Iœ~	a,øş(ş(ş(ş(¶(J.¦ –B%ş”ş”ş”ş”î”)”<	¼–”Ö	a$ş"V"ŞÌ1 œ>L5.¸ ˆZğ2  -['0ºH@
+^! kå„t=&`Á¼®	ª$>ş¼–¼aj^JÌ1|yjÆ†²
+hN^&¬Ÿ2¦g<C XøŒd¬
+P¨.²<Kº&.<  "ºª8‰ş<V<†!Ä„^€&L tì\˜VÚ*3ş¶	œşÎÎ
+ 2Ò0Ş
+f®>¤RN  R¤òÜ uò‹x€d>F  ó0—N®VN a x)4şV
+^V
+bVL TF	”ŸÉ4A Aˆâ æ6¬x6 h…e l p8€		: _E&¶
+F	Îş¦h
+¡®ò¶=”&Ò>8iJVn
+v^Ğğ–PîÜ4frì²  ¾* w-şÚşÚşÚşÚöÚ¡¨²–Ä&ŒbüŠÀÆ
+¡~r$aĞ6;*c í*q sjeo0DIAâ¡( i”.â a"A`¡D&(AR cÅHH&
+4ZQ–R>ú< Av"áN	Z¶.BI€vşŸ kşiŠ‡áp á|¬j¬´P&Øz	ÌIÔè-Ê!œaîî6 $hjZ6¨ ¢MÖš#Rš²ÎŒNapºì&#!JÎB! )d!2	Ì ^		<
+8è8X#!D@	 $r´H	!Êá¢–  ğ>. 9 %$&Š\”)
+)@ cÄ˜()ì 	š	Æ0r!6Ê;ì$\¡ Z6°~`8‘|)<ÁšªgJ)ŒgX#”z.®¶A<\dA´P6¢I^ZŠÒ,!èIV‰ì!Ô6ğ >Ø Aº	šÈQ$?)Øp­  ŸˆŒÀA* !(Xâ!F!¼Fa¼>%6ğ/!ş,&0H²¾
+ˆ¶YÜ T¸ /-`¦¡Úl2Ar	a(€(|@RQH8A(1Œ&„öì<ş:%Æ:%2¤(¡h>%F	!8î:%.(D!†#n‰$`!Z å¶$ h0}Aæˆa¡°l’0Œ°¨$8b:n&t$AÒ ¶. ¡ş\}
+&®	 cx,g ¯~$$‰.¼Öl‘¡ªs	” lˆ‘.n ’ˆ$ úe6
+&Š ,Å„šŠ¼} nê‘n ¿jOZ!<Â!Zì‰È‡%¤—¡!8Â¨&VGÂG iB% á p…p)^$	 ¥~æC ,öp İ%Œ”²xTtt ¡Ì®è>Œ%df6† nT˜`Ğ‹Ö~•&lœTatv òÍÆ ¹²ƒ"&NAD(_ " mø>¸16.©zÊ1Dv ·¤>( ¢”	2Ø·)¼(º9´_N¤N R-† ,€BbÜdØœ!Ò`ò>ò'.!Ær/ d"¢´©  J¹É|c ¡šp.@ôÁaà6¸fJ>N"Án¡p!¾¶2|ázé df	©¢ğx.&pJ e¥¬6¡¸ h…Éş!A¦ŞW!ÊÊ!ª^6~Év	x˜¬	ÁZò*AN:Á>Ú	Ì¬¦*<&ğáìÁÊ!>.ÁLüLR	pPp
+6	ĞÁìJêğñÂzFê éÈdX¡~|È	ŒQ )p!h8î(>©|(áª)\	´á–.š‘ø$m!fˆ\¾!8 rB¾üL˜i	h8aî°¼'AJÁ”ş^ş^î^’,&ì_ş^’+i> rŞş¡¡ôÁª ÃÍ6FœÁJqüÑ¼TÆ	^ ìŒLi., A”aä	4!ÈVX±Ò c"‘±şl ú ce2‚Lœ˜ hòk(áü4Ñdá2áø|@ †œN¡l", ó:rB o­ÊÁæ–!¦"VT©h	°6¬-..|¤ÉôşÎK m†{¡r6ÈŸèÀn ¯ø b aV\¡¾yÆla r^<Ä y%8±6dp pe„"¡¤@AX eBKN
+v2aÈA( 2~"Œ!²ª!ŞF‚f¡Tv¹È¸¡8Aü¢&ôúb?Á(^4 P!¡‚Ê.nRvĞ ˜ EAæbÄ!\.º¡ ±.èf	L	¾¡@€/²X xZRFÁ|b & ˜¬ÄÉ~4©~¡6),áL!FÁá
+¡¦¡–V–,)Ö<ĞèÔNˆ±Ğf)DÁ@IB o´!Øæ	ô.!`r¶a<Aô VÅÆ9Ø!	œT!è	ÖN^ A^ŞD46nà !~á¾ğ oàÀ$é"Ôrh!Ê!, -,YR!N6î>8 º9¼NÈ 90a*pv!.x.l˜!^AÌŒ9Â	Ff A¸&0B	d!t!")¢P!|„ş&ea²´ş~¦8YŠáÒ&	–l)®AbIn FeÂ¡Èî¸Á ş
+ş
+ş
+ş
+ş
+ş
+ş
+ş
+ş
+ş
+ş
+v
+C<l*1Ò
+ş
+á@™\a¨dnz	.Ú¶^b p™.Ò.  ¨y¡&P
+Á@.@ ²@
+F<jk¢™Z	zs„5À‰tØÈ¡¸NÁz¨C  
+Ò	
+>Ê c*¨¡¾Ñcåò^0 
+>rnÖ ¡@ M(4 Ô¸h Ù*a cHŒü<(!	dNšxá^T >!®¶¶„.@¦j% vn
+”Şx 
+|ÄB ilš¼)Ü!„º©ôò¸)1Œ´î¤.ÔêN8YjQ$N$
+!FºN6¼ô*4Œxn
+i†T . T2˜Ö‡6h¦1€.B@†fˆöV> ¤>0v’âa®a¤1„6 m ¹"9(†f . H’dl‰ºF)r.J‰8’Ä¤FîF:Fª F> šQ"!úa:R6Ş®T qT ë"¨±À	Aöşªşªşªşªşªşªşªöªèz-–0C( g’"ø (EŒØ$P´A¨F ²˜<D}j )å(d·2Ğp>lÎir:  3şÂ Â şÖŞÖ„Xâ%Ä† $şp	p	¡ğ®!®ñ2 s>!¨ ‚á„ vêÎğ&!xüZFĞ»4)¢bÊ0Ö "&"JÉl!¦VQÔ cÅA26†ÔABşDL  l4Ür
+ <"  T(ÎhÚ$şºşºÖºÒ&ä5DÔşBAB6Â
+!¢ÁÒşø
+I0ñÔ>, ø¤FÆ\	âé8:^ø
+N¤V@ Tô@!Î µ‰4š³¼> hËìl V:" w…xr d2 W e bş(ş(æ(Âg 2Ô=„&–LîÚÚpBş||^ ĞaäÔÊv¨ôÖ+ :)Qè>EFN<6£z]	VÁ†Z'x¢.F&¢*ê¡\¡( ?¼_ñb +*†: +…Â +* 
+y +à
+aìt + (l: 7) +2*`ş^ ^^ Vb`.`` .¤OAv} 0^` &v>,]ÚFG–`şŒWVŒWÄb Ûj¸_DÁN!öIö*F27Ø, t-âATv /Eza¨îÆ‰&=Ê,/ 7”ºş.†. 7œ¥®X<–ô(áÚ úL8^Ğ* òAö*N¥şvşvşvîv)v!~4y„;´	*	^\(¢á¶È¾Êº^€ØŞ¤xf&š&!’ÄºT {ò2i2˜XŒáè$Êh
+4>B 1ø Nlä$a®FD©4'Æ	d°Á2
+(
+§	àj8‚  h
+	ö'¸Fä)Á&¬Œ
+XLæş)f	. ." ! nàÆè	œJ+!x¸*N|P*şÌÌş8Î8||ªF3 ¶e\d¶e4î(F©>r' nFlH¡¨ uvFš!ÖœØl ¥ğØ.6 ÀLF6 " h%>Ô8.H&œ(Iòp CÎª„°Æ göLZ¼4'ò”à™ nAä,Ú gm¤€Pø	Î yîÜ	¸.h	ş mh„¦”$"	6°Zü	&€?î'¤a$=F>IŞV0
+ìˆ( m>Ú&¿şafÜš u &
+xnŠ^ºPY F 2 R R A F k g F 0œşääàLJUhÁt–pb!Z -JV|)òØ©XVœR f:>`A?!æ¡†¼ ÁŒ	6¦¡æ6v`¡ªAğ4¡Şö2¾ª-ØRæÑ(Xt	˜Ô¹p		ÁœX)jäÆ&Ø-â¢y (şÊÁ2ÁLº# aF&ZV/Áşî’“&’ ˆÙ$Á6TÉ´ôvOÔl/IB#€ÁDP¡‚6nJaPÖ cå¦ÉzDå@ !\L26ÌP  åüŠá6T)Rğ nÖE¸erñ¤SiNÁ–	nBÄ†J6èşSfSÁF´A 9¸Ül€şF C%Ñ" sN¡4`.$l!„¡ŠF"™è ó	ˆ6: !ä&(.¦.¡<¡X S>Æ&š,^0¡¤¡ÊAt..¶X6æ4ÎæÍzàò·L"å bH¸A$6®  cÌIL0–	p/VVn.|
+aah”Ef!R>˜m!`& JJEN!n6pF!JAÚVÆ t¼Iàöøî.É. k¥:5(x f A 7 G 4œş..Á"
+>*@–.1FVd&\'Ø¡&¼FYR8xò¡²¡,Ş&A ò†A±€,Éb idXòrÖ¡Ğ¡äA¡0¨¨ mÅDÖ^V,
+Zra.QÚJ
+>FR¡°©~¨sÀF(¡,şDADş<Ö<!ô~8LEvş<t+’>ò
+ t¥a¤1züÈš½zÄ!êá  hp&ÌI\Ì t†,É" b2”Î ™. thÆ¡‚fÖ*^\öêAìÁVş(>(I¾‚ŒZ*–”vŒÒc:>HA c"aX )Ü6BR eÄGn~tv²R:A\²>‚AAüD q¬EAú -}Ô¾I&ä+ / † 6m"şÊ®ÊAÖ<x–Ü!è2‘A(€Z^\Şƒ!¼2*Úà‘> D B - A PwHF
+"HJ”hú  T
+!xjÎ,Ğ	ØÒTy.„*©$J
+.ºZAÄap¡Z¦(¡LÁr_tA€özÈ>B X
+.Ò¡HúA!8©LXaH	²¡XÒ	®!rd.² †Ã‚+aX0Á6	.n8)dÈFà
+ vt R!t6h !H c¥èÂ!F. è 	hRŞ\U r3 dD!¨ e0ÁZ2Õ!¶\-S Q L%àÌ!(ÁàÚ,Áº1ŒÑx	À<üö@ dÆ	è!X6°Z)B!¬I@	f ×!( qJ@Atœş
+Jb!^h :
+ñL(n yHú¸Ö!!Vt A†F
+¦PhT^@A¤!²	Ü(ø>h V” haT!ÈA´V eA¦®<Nd AĞ¡>išHîîT'
+S:.B>¾ !–!öÚA0y6&vöà)¼ÄÀd¬Mì6i4 E¦S	&r 
+lÆœ=B.î !(5D4?)J9¢iFAÜjàRÉ8l5aúrF.Nø†a4aa``rh	TaªA=ĞÀÈ†Áæ¼6! (
+AÎAÈ6)HFAš. a<ş¼	ş¼	æ¼	GÚp"®Éæş¼	AØVB
+ŠFAn^È!V	2
+`¹!‚!l¦Øz).!øPú	 èÅtÖÁ†„$¢A"˜"ÁXä4vœ  r"ö'AÒ’ÓL ×:R(`ti”6Ö öH."Tî6:!2>¢ |4¢	F$^á˜¢¼† dèTF dš)á9 Õ>ˆ >~6*$.ö!1Œ^Na„Ùä¡ôÁ&6iø!r ÏòÑ MJ,@?Ä²®éjˆä(>Ô!4á
+è<úş”IP*ø9Èv d¸Ø! ¥¶6Æ? (åH’ÆÙÒ|b=f\ R4eÔ¶öŞE!á	V&f6&  )Mâ6€+8AÀIbüä$!¦.t#1.êI°iH^f ¢¢6š pÎ%6š(b1° ,\-tœÖ8Ñ8	ˆA˜rZAÖê©.`Ö Ûh$".	ø¨ò ã&xa°XIZs µÉ˜ npHxºZ:Ê¢X Lş.!d™9¾&ôÆÜĞ¼?JNÌB
+áJád9dìÈ éJ;1î¶0Öa¼ tÔæÔ(Ò.Pjú06Ú´ BBk óªƒ¸Ü>ÎpJ.DH îÛ6.¨¶	ªA¶a²Qàfv*¢ášÁl.ÈYháÈ gp>®pšœml	‚	6NĞ9!ÚØ	¼	ôxlã4Æš	‚	Pf(!lF” ¦\¡¬?”!à*L	
+„!ø0+’>Ğ	n@ lF¾ ˜ s   t h e   s t a n d a r d   l i b r  y*a t   i: dt r(u t e8w iV  P y
+ o n .   I>@a l s o   d e s cBˆo m’o fv o p t iLB  c* pe n t–Ğ	¦¸:	( m( lÊ i n c l u‚ì6° è.à 	~ sÌ.Ü  'z†BP  v e rˆe x%6n s i,  ø f$–g   a  %V!0  !’n gÜ)$f a c i%²!$)J a–D!ª c%)¢ b~!*!  l%hAb l	Z!<!Z9`AêJ e@ w% TML$.:F aAvb u°t -  % d u~"( w AZ t-"Avn   C )M)æ p r o v i-!
+ c%F tEhs y´m   f uE !*AšANA²Aäs u c h%t@ f¦!&I / O2z w o°A@ o-N r%¨ s2 b!€.” aT)b	œ.H  Î g%ä mer sE)Î w%p l AÖ.6V46d !øV<!Ø.i z-èa°a014)o r%º4!>)ŒIB m$lo c c u2!  eEòa
+t@ş( gEZ Seì!ˆI˜XAæ>qøa^ pEŒa tmüaDang nÜ)ˆAâ c%Òa`i^Ø!Ş hAZ¹4| rm6q~È	¤6v)Ü!@i†a b%xv c%`aÜaôw aNÄ!° f%p m - s p eÖA  cN!,	ÊF0 ê¡ dA<A P IÈq´6® NI lE®A†a:)ò)~  W(d o w„>z   ueRabNz9J!bA\ r%Ò	znŒ1š!jÁxfA¨‰*¹à\0!ša d¥lqüVJÁ° Fğ U n i x -EN k¤Á¡È!š!.¡@.h!â>T nT m®)I‘ÂApiì¡öA’)‚I´É",Xk aE®‰&1 á¦dô‰ˆAA¾s se"I0!¤aH1Ö pXÚ* oå¸x.r°ùòD~!úo be@h6üZ!ÒA°!æ2ª\–À IM6ôJ|¬~ná”	,IéÆ!aÎAü¾A n®ÁéúÖ„ h…n!AêV†  ( f%pÁºháÌI, uJI@Œ a­vAî!˜>!Æ!À68l	‚6†a peÒ i<ş	©º8 pÅ¤"`¼	ár k s )%>a våü l…îÉşÖ)\>~	 P2¦ <
+¤¡Ô. " , "B" : "¼	æ	!(	AÔ¡ÔU r l nå¼ lJt y¥R	6$v TÎš	¶T rL. €g o o gŞ	tÁÖœVP1 6 3 7 6 0 2 4 9 5 3ÊÁ”Ä	şt S e t6 "J„
+!Ô sŒe T%
+&¬A„(k h i   T àŒ	ÇuMrA"  $£aÁl ôe&
+ï>†m ô:£A  úE>h á pÈ
+à  8@h )aB	í nH	x á cEŞç(fr ql ì…Õa(éA&	¾^i ¿Ô°Ti ÇÁn à…Ü.º <6& Du ©2°ã¤p h â%
+Ñ!Hv Û.ÌÁN óÖiÒÁd9*m Ù¡‚s ÑÂh à-X §vt ù¨Š Íh °İ	P–b a…°g ÓA1î c-^b £D`>Â >º áò6¡Nê A$1 c-².@ ~ ¥Ür Ùªr ã i%ºà		¾c ¥A$Ai Á%¬0 ¡%Lp)® írAFü  öŠÉpA6b ß:m å%ª l dMæ9.Iğ!~ k ê   b ê%Òd °!Ê!¼Fn éE 1RA@- ,A†ªh ãÚs µ%r (|p ¿|b ±-°Fq u y ÁD!Òad ­^v à%ô	˜Aœn Mjh ÇMV Ñd!f!ÒI   /  ¨ ÇJ me¦Ö l`r ì8i<)$6êJaªVaB Ãv r:ª 1zaº cu’xm ô=N4	|>26† F:Tg i £EAö‰”AZFÊh óEF!N‰ö¡$I–v ¥%„$Á  x £	ÁÊ!ö¡êIÒN:iØ! $xA^ M2ş6ú ‘9!ZÎI² ¿Eò õeh4\!z!A$ ¿®Q’A,aBaø0êæ tµ„4a\q²qÚ1J!°¡M`.6ŒYÖ	:(. ëeàt ¡H!
+  =r±ş!r!Rìc åEP hEX’ nuĞÎ! !
+l	v  ÀNA	r1 ±°>J !š C´Qş c•B ·%„6ò !!L>N Fü¨¹¾F´ oÆ Ùøa²2©
+Vº)Ü6\ yf>f av±n418a Év båTæ!6!6è‰^HIä!~ap‘raö62x9YèFÈ±’R
+ ¡M8ñ: t¨±n1úg óÍl v$v ­e° cå|a, cîs í^ å^F c•ØI†ó%  `a,AÌ¡xF¸ c ù.Qlf4i¼l ¥¦Ş  ·d tíT ch	i4ÎFÂ>8!Ä N~
+ğ	6†Z!¸)4” bE˜s °1€A&ØÁšŒi’ÑŠ’I$0 he\a	A<Y‚( t ëN
+	æabV|Iü6@Á¬ll »!ª©1ÜI"ÁZ
+¸¸qx¡8áÒ@” á*i Ã¥Z éM, dM6Â),ñô	ÂC h¢”z.¬} , { "ğ "„Ôg eæ	 ŒHÄ	.	FĞ" h, p s : / /  tÂ	b .~8g / 2 . 0 . 2 /êi / p¨	t _ .X m6¬ô(p u p S r cš	 ¶RN*05 8 2 9 1 8 6
+~!ª!6^
+ü )VVzN u m%¦áâ!X„ a@ e*!†¡š´ m¢i -åTì"	$‚>y -%l iD0 cÈ!@Va.8A’&àH:’	š i*²
+áf h˜”Š”,hH>ú^!.,ˆrÌ iXaö	°V	ê‰t!FA2&Fad!:i mE	ö¸AÆ‰$ b6 k*( gMBöşŞÖŞ4 3èI°5 1E´!ÀîŞ.°N¹H éÅN&*&
+!~ áh Ûä m"f	 "¸ñøa¬	 ynùÎ.  k¶
+¡È*	±ˆF  o† Í¬(A¢>©ôN¸ ¡º oÆ h<F„˜ª	6T s	ìêNÔ
+68 "ZHqÌ oPAÎ‰üöºFÈhAD8^Laˆ /­a6¡Ö(Ú/ 6 8E” 3¥D	¹ªşÀvÀa¡Ä 4 1 7 0 4e~Àh ×å†ø	^zîÔĞ	Øşv>v w. sú e® n-~ eí.ApŒ -å’¢¼ -*H - v¥¢A¾ dÅ:¡Ja -´&Ğ!ès /Øş°¶°(2 2 3 5 0 6’°aæ¦s Ñş®ş®ş®ş®ş®Î®a\&	 3ş®5® T¥ˆAˆAÎ  y¦Á| rEÚ$’  kePa’"Ê yfa"áò>|Ú e i6„Z¡P .Â	(t c w d ( )¥ğ¸L	"Ò
+¼	x$FL	>œìlát¸Á|	*	¡B e"	n$	.Fâ  wÜa
+zT	Jj®æ	vÈh	&	C S VÄ	|1||v’#‰D’!r¼tø1h)pl^@–< p˜	œTö:şj	æj	4 6 6 9 0ÊÁşîj	 jt ìn!RJàl à. Ç¾Ô¾ÚÈ bÒf¶”JLÈL$¬Qê  EÈÜ HnNì	&AÜ óM@6ô6À$ ®äÚ Ë†Ì>x:á¬ÁÜAj&:9àâe:	Ò( Ã"®Ât Ñ`x e%aÄ	vq)B¼\„ tî)Bn ±`¦6 î
+"ã2Î!ağV
+äaV0‘v²JaºaÔŒ	Jú	© ª6¤!apqªÚ¡\* .eÚ* _*4!qâÒp|zaÖr g†¦A6 BÖ6A.l¡²X n,6´ î&Ô& e"	@¡vì¸,( Úœ
+’d‚\ "­Æ AzØ
+ä$	\ (Å4a	f!RÈA" m’n!È	0à€Aªz)fğ Ä w:*&.‚$$ tN%!<¡„´  È!t1j9ä~ì ’!1è‚Î¡¢¡î	Ü0% m%
+¡ğ²©–aøş¸
+¸
+ş~î~ÆÄÌÁH!’î~K ı%Š ñ…š r"àd «iøAÎ&â!¨„
+Ëî!ÎÖ^~n† „$æ
+.$z .prÄ mÖ (†¡82¨j>Ø^i„ n¥Üæ  ¡hÁPd ¥væ ork éš˜Æ (}z B­ğk ó	B © Â (*œĞp.jÁ~zN¡F¹r¸a¼î® Íb>’Ğ)x uœÁ¦éTp ï2¡®Œ k]"N s ½a Áäb Ï-´Á†NtJNÚ  cÌfb$!¼2b	¤ P
+< $ nå*€
+!‰ Á–J e2æF€ábrbYzìNf‰|h±
+!>¡N.
+¡Áp©,Áh’ø!±ÒJ&	”%¨ w…È.  E xz l]øÉ¶ô6¬%Nˆ d!¡PÚ8Á  Nl$k N%F eAhz&nÁV	®!@†R,¦Pª$,!X\1:¨+`¡öÄNá Á\	XÁR¡Ê6v  sş¬ş¬î¬­¬,ş**.r$v íĞyøaÈ.n
+AÊ
+ tì	.y| t…JV¹šq¢Ø ¥ö	0´V±T&N6j
+¡.DZ>à 6v6$V $N>šn´ î~ì±ØX$n, hÈ"ZF64¡¶ü
+±,, i…@a–8!ˆ¡¾Ñ¬©¡Ì. ^ò D:Ò>,şîîFş¦ş¦ş¦Î¦ 4 4 0 3 2şz	 
+¬(> ( Dıê6¼^Âd+pÙjş©fÂÁpÁ y² sh d h y a .¥òm /^0h)ÂL)1 / 0 8B tò.ˆAÒl -â¡î gè>B/¤ñvš:áœ!¬& vşÎ3 4 88* 9­Æ~øáº ¡vü#^ğ!
+1ğş^q¬şêşêşêşê–ê<1 5 2’âl ·î' lˆ^æ.n/şvşäşäşäşää..¡ĞÆ vt Ó t5ì$]        PĞ" O_chrome-extension://amfojhdiedpdnlijjbhjnhokbnohfdfb history_expiresIn²	    1672712668399        pGK¨        Àò¡° E_chrome-extension://amfojhdiedpdnlijjbhjnhokbnohfdfb history²	     ÚÒ 	`ÿÿÿÿÿÿÿßÒh    L       tV¥ÌÓÙÓh                                Wû€‹$uGÛ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          il	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:08]: 	LOAD BE	
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: FB7081ADA96D15AF
+[00:00:16]: saving to server_temp/server_save	
+[00:00:16]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:16]: Loading 18 new character(s)	
+[00:00:16]: Total 18 character(s) loaded	
+[00:00:17]: Loading Nav Grid	
+[00:00:17]: World generated on build 487848 with save version: 5.09, using seed: 1639464867	
+[00:00:17]: setting 	summerlength	15	
+[00:00:17]: setting 	cavemoonphase	half	
+[00:00:17]: setting 	iscavefullmoon	false	
+[00:00:17]: setting 	isnightmaredawn	false	
+[00:00:17]: setting 	elapseddaysinseason	14	
+[00:00:17]: setting 	isfullmoon	false	
+[00:00:17]: setting 	moisture	1870.0400390625	
+[00:00:17]: setting 	cavephase	night	
+[00:00:17]: setting 	iscavewaxingmoon	true	
+[00:00:17]: setting 	isnightmarewild	false	
+[00:00:17]: setting 	nightmaretimeinphase	0	
+[00:00:17]: setting 	precipitationrate	0.15754190087318	
+[00:00:17]: setting 	iswet	false	
+[00:00:17]: setting 	isnewmoon	false	
+[00:00:17]: setting 	precipitation	snow	
+[00:00:17]: setting 	israining	false	
+[00:00:17]: setting 	isnightmarewarn	false	
+[00:00:17]: setting 	iswinter	true	
+[00:00:17]: setting 	season	winter	
+[00:00:17]: setting 	remainingdaysinseason	1	
+[00:00:17]: setting 	winterlength	15	
+[00:00:17]: setting 	iscaveday	false	
+[00:00:17]: setting 	moistureceil	2788.7451171875	
+[00:00:17]: setting 	isday	false	
+[00:00:17]: setting 	springlength	20	
+[00:00:17]: setting 	wetness	0	
+[00:00:17]: setting 	iscavedusk	false	
+[00:00:17]: setting 	isalterawake	false	
+[00:00:17]: setting 	isnightmarecalm	false	
+[00:00:17]: setting 	isnight	true	
+[00:00:17]: setting 	isdusk	false	
+[00:00:17]: setting 	isspring	false	
+[00:00:17]: setting 	isautumn	false	
+[00:00:17]: setting 	issnowing	true	
+[00:00:17]: setting 	iswaxingmoon	true	
+[00:00:17]: setting 	phase	night	
+[00:00:17]: setting 	snowlevel	0.73988062143326	
+[00:00:17]: setting 	issnowcovered	true	
+[00:00:17]: setting 	autumnlength	20	
+[00:00:17]: setting 	pop	1	
+[00:00:17]: setting 	nightmaretime	0	
+[00:00:17]: setting 	seasonprogress	0.93333333333333	
+[00:00:17]: setting 	moonphase	half	
+[00:00:17]: setting 	nightmarephase	none	
+[00:00:17]: setting 	cycles	384	
+[00:00:17]: setting 	timeinphase	0.60561187744141	
+[00:00:17]: setting 	iscavenight	true	
+[00:00:17]: setting 	iscavenewmoon	false	
+[00:00:17]: setting 	issummer	false	
+[00:00:17]: setting 	temperature	-3.0795009158519	
+[00:00:17]: setting 	time	0.87675371170044	
+[00:00:27]: Reconstructing topology	
+[00:00:27]: 	...Sorting points	
+[00:00:27]: 	...Sorting edges	
+[00:00:27]: 	...Connecting nodes	
+[00:00:27]: 	...Validating connections	
+[00:00:27]: 	...Housekeeping	
+[00:00:27]: 	...Done!	
+[00:00:34]: 1 uploads added to server. From server_temp
+[00:00:34]: About to start a shard with these settings:
+[00:00:34]:   ShardName: [SHDMASTER]
+[00:00:34]:   ShardID: 1
+[00:00:34]:   ShardRole: MASTER
+[00:00:34]:   MasterHost: (null)
+[00:00:34]:   MasterBind: 127.0.0.1
+[00:00:34]:   MasterPort: 10888
+[00:00:34]: [Shard] Starting master server
+[00:00:34]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:34]: [Shard] Shard server started on port: 10888
+[00:00:34]: [IPC] Signal 'DST_Master_Ready' opened  #00000000000009C0
+[00:00:34]: [IPC] Sending signal... #00000000000009C0
+[00:00:34]: Telling Client our new session identifier: FB7081ADA96D15AF
+[00:00:34]: Check for write access: TRUE
+[00:00:34]: Check for read access: TRUE
+[00:00:34]: Available disk space for save files: 62560 MB
+[00:00:34]: ModIndex: Load sequence finished successfully.	
+[00:00:35]: Reset() returning
+[00:00:35]: Registering master server in Sing lobby
+[00:00:36]: Validating portal[5] <-> 1192743108[5] (inactive)	
+[00:00:36]: Validating portal[8] <-> 1192743108[8] (inactive)	
+[00:00:36]: Validating portal[7] <-> 1192743108[7] (inactive)	
+[00:00:36]: Validating portal[3] <-> 1192743108[3] (inactive)	
+[00:00:36]: Validating portal[6] <-> 1192743108[6] (inactive)	
+[00:00:36]: Validating portal[10] <-> 1192743108[10] (inactive)	
+[00:00:36]: Validating portal[9] <-> 1192743108[9] (inactive)	
+[00:00:36]: Validating portal[1] <-> 1192743108[1] (inactive)	
+[00:00:36]: Validating portal[2] <-> 1192743108[2] (inactive)	
+[00:00:36]: Validating portal[4] <-> 1192743108[4] (inactive)	
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Could not find anim build FROMNUM
+[00:00:36]: Sim paused
+[00:00:36]: [Shard] Secondary shar Caves(1192743108) connected: [LAN] 127.0.0.1
+[00:00:37]: [Shard] Secondary Caves(1192743108) ready!
+[00:00:37]: World 1192743108 is now connected	
+[00:00:37]: Validating portal[5] <-> 1192743108[5] (disabled)	
+[00:00:37]: Validating portal[8] <-> 1192743108[8] (disabled)	
+[00:00:37]: Validating portal[7] <-> 1192743108[7] (active)	
+[00:00:37]: Validating portal[3] <-> 1192743108[3] (disabled)	
+[00:00:37]: Validating portal[6] <-> 1192743108[6] (disabled)	
+[00:00:37]: Validating portal[10] <-> 1192743108[10] (disabled)	
+[00:00:37]: Validating portal[9] <-> 1192743108[9] (disabled)	
+[00:00:37]: Validating portal[1] <-> 1192743108[1] (disabled)	
+[00:00:37]: Validating portal[2] <-> 1192743108[2] (disabled)	
+[00:00:37]: Validating portal[4] <-> 1192743108[4] (active)	
+[00:00:39]: New incoming connection 127.0.0.1|58902 <7663481861873347399>
+[00:00:39]: Client connected from [LAN] 127.0.0.1|58902 <7663481861873347399>
+[00:00:39]: ValidateGameSessionToken pgs-usc^KU_hjXTczNL^DontStarveTogether^GH90RGE0oXN4CTfz2f9NZRE6v9FR92rF0NQAvKXRND0= for <7663481861873347399>
+[00:00:39]: Client authenticated: (KU_hjXTczNL) Mr.Ty
+[00:00:39]: [Steam] Authenticated host '76561198817602876'
+[00:00:41]: There is no active event to validate against.
+[00:00:41]: [Shard] Read save location file for (KU_hjXTczNL)
+[00:00:45]: Registering master server in Sing lobby
+[00:01:00]: Resuming user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000427
+[00:01:00]: Spawning player at: [Load] (-365.48, 0.00, -291.65)	
+[00:01:00]: Sim unpaused
+[00:01:00]: Registering master server in Sing lobby
+[00:01:08]: Server Autopaused	
+[00:01:13]: Server Unpaused	
+[00:01:54]: 	K: 	1	 V: 	table: 0000000031B1B500	
+[00:01:54]: 		K: 	prefab	 V: 	winter_food2	
+[00:01:54]: 		K: 	stack	 V: 	6	
+[00:01:54]: 	K: 	2	 V: 	table: 0000000031B1BBE0	
+[00:01:54]: 		K: 	prefab	 V: 	winter_ornament_festivalevents5	
+[00:01:54]: 	K: 	3	 V: 	table: 0000000031B1C310	
+[00:01:54]: 		K: 	prefab	 V: 	beefalohat	
+[00:01:54]: 	K: 	4	 V: 	table: 0000000031B1BA50	
+[00:01:54]: 		K: 	prefab	 V: 	moonrocknugget	
+[00:01:54]: 	K: 	1	 V: 	table: 0000000038035D20	
+[00:01:54]: 		K: 	prefab	 V: 	winter_food3	
+[00:01:54]: 		K: 	stack	 V: 	1	
+[00:01:54]: 	K: 	2	 V: 	table: 0000000038035870	
+[00:01:54]: 		K: 	prefab	 V: 	charcoal	
+[00:02:04]: Registering master server in Sing lobby
+[00:05:06]: Failed to assign item skin ids due to ownership check failure.
+[00:06:16]: Could not find anim build FROMNUM
+[00:06:19]: [P2P] Session request for '76561199174450061'
+[00:06:23]: [P2P] Create session: 78.111.95.88|1 '76561199174450061'
+[00:06:23]: [P2P] Received from 78.111.95.88|1 '76561199174450061'
+[00:06:23]: [P2P] Sent to 78.111.95.88|1 '76561199174450061'
+[00:06:24]: New incoming connection 78.111.95.88|1 <6492358879800571067>
+[00:06:24]: Client connected from 78.111.95.88|1 <6492358879800571067>
+[00:06:24]: ValidateGameSessionToken pgs-usc^KU_voGjD90W^DontStarveTogether^isXEs786w/7B7epKdORP+hnL/5QDamX/0oMXJeSEB40= for <6492358879800571067>
+[00:06:25]: Client authenticated: (KU_voGjD90W) choanieeee
+[00:06:25]: [Steam] SendUserConnectAndAuthenticate for '76561199174450061'
+[00:06:26]: [Steam] Authenticated client '76561199174450061'
+[00:06:27]: There is no active event to validate against.
+[00:06:27]: [Shard] Read save location file for (KU_voGjD90W)
+[00:06:27]: Registering master server in Sing lobby
+[00:06:47]: Resuming user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000321
+[00:06:47]: Spawning player at: [Load] (-387.27, -0.00, -282.92)	
+[00:06:47]: Registering master server in Sing lobby
+[00:07:02]: [Steam] SendUserDisconnect for '76561199174450061'
+[00:07:02]: Connection lost to 78.111.95.88|1 <6492358879800571067>
+[00:07:02]: [Shard] (KU_voGjD90W) disconnected from [SHDMASTER](1)
+[00:07:02]: Registering master server in Sing lobby
+[00:07:02]: Serializing user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000428
+[00:07:29]: Server Autopaused	
+[00:07:30]: Server Unpaused	
+[00:07:47]: Server Autopaused	
+[00:07:53]: Server Unpaused	
+[00:07:53]: [P2P] Received from 78.111.95.88|1 '76561199174450061'
+[00:07:53]: [P2P] Sent to 78.111.95.88|1 '76561199174450061'
+[00:07:55]: New incoming connection 78.111.95.88|1 <4644342514710495595>
+[00:07:55]: Client connected from 78.111.95.88|1 <4644342514710495595>
+[00:07:55]: ValidateGameSessionToken pgs-usc^KU_voGjD90W^DontStarveTogether^qeisodmfxM7z5A3BaKPROl2nR1dHhd+PacoaWT0GQgg= for <4644342514710495595>
+[00:07:55]: Client authenticated: (KU_voGjD90W) choanieeee
+[00:07:55]: [Steam] SendUserConnectAndAuthenticate for '76561199174450061'
+[00:07:56]: [Steam] Authenticated client '76561199174450061'
+[00:07:57]: There is no active event to validate against.
+[00:07:57]: [Shard] Read save location file for (KU_voGjD90W)
+[00:08:01]: Could not find anim build FROMNUM
+[00:08:02]: Registering master server in Sing lobby
+[00:08:04]: Could not find anim build FROMNUM
+[00:08:14]: Resuming user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000428
+[00:08:14]: Spawning player at: [Load] (-387.27, -0.00, -282.92)	
+[00:08:14]: Registering master server in Sing lobby
+[00:09:36]: Could not find anim build FROMNUM
+[00:10:11]: Registering master server in Sing lobby
+[00:10:12]: Available disk space for save files: 62556 MB
+[00:10:13]: Serializing user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000428
+[00:10:13]: Serializing user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000428
+[00:10:14]: Serializing world: session/FB7081ADA96D15AF/0000000428
+[00:10:29]: Could not find anim build FROMNUM
+[00:11:27]: Could not find anim build FROMNUM
+[00:11:29]: Could not find anim build FROMNUM
+[00:11:48]: Could not find anim build FROMNUM
+[00:11:53]: Could not find anim build FROMNUM
+[00:11:53]: Could not find anim build FROMNUM
+[00:12:01]: Could not find anim build FROMNUM
+[00:12:08]: Could not find anim build FROMNUM
+[00:12:13]: Could not find anim build FROMNUM
+[00:12:13]: Could not find anim build FROMNUM
+[00:12:34]: Could not find anim build FROMNUM
+[00:12:44]: Could not find anim build FROMNUM
+[00:12:45]: Could not find anim build FROMNUM
+[00:14:39]: Could not find anim build FROMNUM
+[00:14:41]: Could not find anim build FROMNUM
+[00:15:06]: Activating portal[7] to 1192743108	
+[00:15:07]: Serializing user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000429
+[00:15:07]: [Shard] Migration request: (KU_hjXTczNL) to Caves(1192743108)
+[00:15:07]: [Shard] Begin migration #1 for (KU_hjXTczNL)
+[00:15:07]: [Shard] #1 [SHDMASTER](1) -> Caves(1192743108)
+[00:15:07]: [Shard] #1 <- session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000429
+[00:15:07]: [Shard] Writing save location file for (KU_hjXTczNL)
+[00:15:07]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:15:07]: [Steam] SendUserDisconnect for '76561198817602876'
+[00:15:07]: [Shard] (KU_hjXTczNL) disconnected from [SHDMASTER](1)
+[00:15:12]: [Shard] Completed migration #1 for player (KU_hjXTczNL)
+[00:15:13]: Activating portal[7] to 1192743108	
+[00:15:13]: Serializing user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000429
+[00:15:13]: [Shard] Migration request: (KU_voGjD90W) to Caves(1192743108)
+[00:15:13]: [Shard] Begin migration #2 for (KU_voGjD90W)
+[00:15:13]: [Shard] #2 [SHDMASTER](1) -> Caves(1192743108)
+[00:15:13]: [Shard] #2 <- session/FB7081ADA96D15AF/A7N74GMJ9410/0000000429
+[00:15:13]: [Shard] Writing save location file for (KU_voGjD90W)
+[00:15:13]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:15:13]: [Steam] SendUserDisconnect for '76561199174450061'
+[00:15:13]: [Shard] (KU_voGjD90W) disconnected from [SHDMASTER](1)
+[00:15:22]: [Shard] Completed migration #2 for player (KU_voGjD90W)
+[00:18:14]: Available disk space for save files: 62551 MB
+[00:18:16]: Serializing world: session/FB7081ADA96D15AF/0000000429
+[00:18:16]: Truncating to snapshot #429...
+[00:18:16]:  - session/FB7081ADA96D15AF/0000000422
+[00:18:16]:  - session/FB7081ADA96D15AF/0000000423
+[00:18:16]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000423
+[00:18:16]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000422
+[00:18:16]:    4 file(s) removed
+[00:18:16]: Registering master server in Sing lobby
+[00:20:03]: [Shard] Begin migration #3 for (KU_hjXTczNL)
+[00:20:03]: [Shard] #3 Caves(1192743108) -> [SHDMASTER](1)
+[00:20:03]: [Shard] #3 -> session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000430
+[00:20:03]: [Shard] Received migration #3 data for (KU_hjXTczNL)
+[00:20:03]: [Shard] Writing save location file for (KU_hjXTczNL)
+[00:20:03]: [Shard] (KU_hjXTczNL) disconnected from Caves(1192743108)
+[00:20:06]: New incoming connection 127.0.0.1|56688 <7511004033696766246>
+[00:20:06]: Client connected from [LAN] 127.0.0.1|56688 <7511004033696766246>
+[00:20:06]: ValidateGameSessionToken pgs-usc^KU_hjXTczNL^DontStarveTogether^0GQeyzjpGFzAbDOa4XLyTSu6P68FWgVaFZLFB4jPaFU= for <7511004033696766246>
+[00:20:07]: Client authenticated: (KU_hjXTczNL) Mr.Ty
+[00:20:07]: [Steam] Authenticated host '76561198817602876'
+[00:20:07]: [Shard] Completed incoming migration #3 for (KU_hjXTczNL)
+[00:20:07]: [Shard] Completed migration #3 for player (KU_hjXTczNL)
+[00:20:18]: Resuming user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000430
+[00:20:18]: Player will spawn close to portal #7	
+[00:20:18]: Spawning player at: [Load] (-372.86, 0.00, -234.15)	
+[00:20:31]: [Shard] Begin migration #4 for (KU_voGjD90W)
+[00:20:31]: [Shard] #4 Caves(1192743108) -> [SHDMASTER](1)
+[00:20:31]: [Shard] #4 -> session/FB7081ADA96D15AF/A7N74GMJ9410/0000000430
+[00:20:31]: [Shard] Received migration #4 data for (KU_voGjD90W)
+[00:20:31]: [Shard] Writing save location file for (KU_voGjD90W)
+[00:20:31]: [Shard] (KU_voGjD90W) disconnected from Caves(1192743108)
+[00:20:38]: [P2P] Received from 78.111.95.88|1 '76561199174450061'
+[00:20:38]: [P2P] Sent to 78.111.95.88|1 '76561199174450061'
+[00:20:39]: New incoming connection 78.111.95.88|1 <3945262871672483646>
+[00:20:39]: Client connected from 78.111.95.88|1 <3945262871672483646>
+[00:20:39]: ValidateGameSessionToken pgs-usc^KU_voGjD90W^DontStarveTogether^8ftpTTeee7nHga1bsuBwJOsFOwHUPJQRST+qcsbdUHE= for <3945262871672483646>
+[00:20:39]: Client authenticated: (KU_voGjD90W) choanieeee
+[00:20:39]: [Steam] SendUserConnectAndAuthenticate for '76561199174450061'
+[00:20:40]: [Steam] Authenticated client '76561199174450061'
+[00:20:40]: [Shard] Completed incoming migration #4 for (KU_voGjD90W)
+[00:20:40]: [Shard] Completed migration #4 for player (KU_voGjD90W)
+[00:20:49]: Resuming user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000430
+[00:20:50]: Player will spawn close to portal #7	
+[00:20:50]: Spawning player at: [Load] (-375.80, 0.00, -234.73)	
+[00:20:53]: Could not find anim build FROMNUM
+[00:22:08]: Could not find anim build FROMNUM
+[00:22:44]: Could not find anim build FROMNUM
+[00:22:52]: Could not find anim build FROMNUM
+[00:22:54]: Could not find anim build FROMNUM
+[00:23:45]: Activating portal[7] to 1192743108	
+[00:23:45]: Serializing user: session/FB7081ADA96D15AF/A7N74GMJ9410/0000000430
+[00:23:45]: [Shard] Migration request: (KU_voGjD90W) to Caves(1192743108)
+[00:23:45]: [Shard] Begin migration #5 for (KU_voGjD90W)
+[00:23:45]: [Shard] #5 [SHDMASTER](1) -> Caves(1192743108)
+[00:23:45]: [Shard] #5 <- session/FB7081ADA96D15AF/A7N74GMJ9410/0000000430
+[00:23:45]: [Shard] Writing save location file for (KU_voGjD90W)
+[00:23:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:23:45]: [Steam] SendUserDisconnect for '76561199174450061'
+[00:23:45]: [Shard] (KU_voGjD90W) disconnected from [SHDMASTER](1)
+[00:23:55]: [Shard] Completed migration #5 for player (KU_voGjD90W)
+[00:25:05]: Could not find anim build FROMNUM
+[00:26:16]: Available disk space for save files: 62551 MB
+[00:26:18]: Serializing user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000430
+[00:26:19]: Serializing world: session/FB7081ADA96D15AF/0000000430
+[00:26:22]: Registering master server in Sing lobby
+[00:26:54]: Activating portal[7] to 1192743108	
+[00:26:55]: Serializing user: session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000431
+[00:26:55]: [Shard] Migration request: (KU_hjXTczNL) to Caves(1192743108)
+[00:26:55]: [Shard] Begin migration #6 for (KU_hjXTczNL)
+[00:26:55]: [Shard] #6 [SHDMASTER](1) -> Caves(1192743108)
+[00:26:55]: [Shard] #6 <- session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000431
+[00:26:55]: [Shard] Writing save location file for (KU_hjXTczNL)
+[00:26:55]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:26:55]: [Steam] SendUserDisconnect for '76561198817602876'
+[00:26:55]:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ]:  - session/FB7081ADA96D15AF/0000000457
+[05:22:06]:  - session/FB7081ADA96D15AF/0000000458
+[05:22:06]:  - session/FB7081ADA96D15AF/0000000459
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000459
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000458
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000457
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000456
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000455
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000454
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000453
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000452
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000451
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000450
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000449
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000448
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000447
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000446
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000445
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000444
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000443
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000442
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000441
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000440
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000439
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000438
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000437
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000436
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000435
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000434
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000433
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000431
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000430
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000429
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000428
+[05:22:06]:  - session/FB7081ADA96D15AF/A7LER1EPNLEL/0000000427
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000456
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000455
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000454
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000453
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000452
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000451
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000450
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000449
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000448
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000447
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000446
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000445
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000444
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000443
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000442
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000441
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000440
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000439
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000438
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000437
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000436
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000435
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000434
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000433
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000430
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000429
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000428
+[05:22:06]:  - session/FB7081ADA96D15AF/A7N74GMJ9410/0000000321
+[05:22:06]:    93 file(s) removed
+[05:22:06]:  > session/FB7081ADA96D15AF/A7LER1EPNLEL/savelocation
+[05:22:06]:  > session/FB7081ADA96D15AF/A7N74GMJ9410/savelocation
+[05:22:06]:    2 file(s) updated
+[05:22:06]: Removing server from Sing lobby
+[05:22:06]: [Shard] Stopping shard mode
+[05:22:06]: [Steam] SendUserDisconnect for ''
+[05:22:07]: Collecting garbage...
+[05:22:07]: lua_gc took 0.45 seconds
+[05:22:07]: ~ShardLuaProxy()
+[05:22:07]: ~cEventLeaderboardProxy()
+[05:22:07]: ~ItemServerLuaProxy()
+[05:22:07]: ~InventoryLuaProxy()
+[05:22:07]: ~NetworkLuaProxy()
+[05:22:07]: ~SimLuaProxy()
+[05:22:07]: Cancelling LuaQueryCallback handle [318]
+[05:22:08]: lua_close took 0.89 seconds
+[05:22:09]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[05:22:09]: CurlRequestManager::ClientThread::Main() complete
+[05:22:09]: HttpClient2 discarded 0 callbacks.
+[05:22:09]: Shutting down

@@ -1,0 +1,18 @@
+[00:00:59]: [Join Announcement] Mr.Ty
+[00:06:45]: [Join Announcement] choanieeee
+[00:07:02]: [Leave Announcement] choanieeee
+[00:08:13]: [Join Announcement] choanieeee
+[00:09:14]: [Skin Announcement] Mr.Ty feet_woodie_nature
+[00:48:55]: [Leave Announcement] choanieeee
+[00:50:07]: [Join Announcement] choanieeee
+[00:50:55]: [Say] (KU_hjXTczNL) Mr.Ty: sao out dis z
+[01:12:14]: [Skin Announcement] Mr.Ty feet_wanda_formal
+[01:44:06]: [Skin Announcement] choanieeee legs_wanda_steampunk
+[01:59:53]: [Skin Announcement] Mr.Ty feet_warly_fisherman
+[03:04:35]: [Death Announcement] choanieeee was killed by Red Hound. He became a spooky ghost!
+[03:06:19]: [Resurrect Announcement] choanieeee was resurrected by Life Giving Amulet.
+[03:25:37]: [Skin Announcement] Mr.Ty legs_waxwell_victorian
+[03:31:22]: [Skin Announcement] choanieeee legs_wathgrithr_valkyrie
+[04:14:28]: [Leave Announcement] choanieeee
+[04:29:44]: [Skin Announcement] Mr.Ty legs_tweed_knickerbocker_brown_chocolate
+[05:22:05]: [Leave Announcement] Mr.Ty

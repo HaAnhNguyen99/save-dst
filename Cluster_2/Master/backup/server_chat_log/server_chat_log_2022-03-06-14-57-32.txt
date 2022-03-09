@@ -1,0 +1,8 @@
+[00:00:30]: [Join Announcement] Khanh1
+[00:01:04]: [Join Announcement] Mr.Ty
+[00:07:09]: [Skin Announcement] Mr.Ty legs_wanda_shadow
+[00:17:18]: [Announcement] You feel an evil presence watching you...
+[00:17:28]: [Announcement] The Eye of Terror turns its gaze toward Mr.Ty
+[00:25:22]: [Leave Announcement] Mr.Ty
+[00:26:13]: [Join Announcement] Mr.Ty
+[00:40:22]: [Leave Announcement] Khanh1

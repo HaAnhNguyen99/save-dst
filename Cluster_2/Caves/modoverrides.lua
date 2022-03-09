@@ -1,0 +1,77 @@
+return {
+  ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-1595631294"]={
+    configuration_options={
+      BundleItems=false,
+      ChangeSkin=true,
+      Digornot=false,
+      DragonflyChest=false,
+      Icebox=false,
+      SaltBox=false 
+    },
+    enabled=true 
+  },
+  ["workshop-2074508776"]={
+    configuration_options={ handmake=20, onlyclose=false, range=2.3 },
+    enabled=true 
+  },
+  ["workshop-2321974509"]={ configuration_options={ SIB=true, SSB=true }, enabled=true },
+  ["workshop-2648133984"]={
+    configuration_options={
+      ICON_STYLE="new",
+      MINIMAP_ICONS=true,
+      SHOW_NUMBERS="num_",
+      WORLD_COLORS=true,
+      WORLD_NUMBERS=true,
+      WORMHOLE_BORDER=true,
+      WORMHOLE_MARKS_DISABLE=false 
+    },
+    enabled=true 
+  },
+  ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=150 }, enabled=true },
+  ["workshop-378160973"]={
+    configuration_options={
+      ENABLEPINGS=true,
+      FIREOPTIONS=2,
+      OVERRIDEMODE=false,
+      SHAREMINIMAPPROGRESS=true,
+      SHOWFIREICONS=true,
+      SHOWPLAYERICONS=true,
+      SHOWPLAYERSOPTIONS=2 
+    },
+    enabled=true 
+  },
+  ["workshop-661253977"]={
+    configuration_options={ amudiao=true, baodiao=1, kong=0, nillots=0, rendiao=2, zbdiao=true },
+    enabled=true 
+  },
+  ["workshop-666155465"]={
+    configuration_options={
+      chestB=-1,
+      chestG=-1,
+      chestR=-1,
+      display_hp=-1,
+      food_estimation=-1,
+      food_order=0,
+      food_style=0,
+      lang="auto",
+      show_food_units=-1,
+      show_uses=-1 
+    },
+    enabled=true 
+  },
+  ["workshop-728459184"]={
+    configuration_options={
+      INCREASEBACKPACKSIZES_BACKPACK=8,
+      INCREASEBACKPACKSIZES_ICEPACK=8,
+      INCREASEBACKPACKSIZES_KRAMPUSSACK=14,
+      INCREASEBACKPACKSIZES_PIGGYBACK=12,
+      largerbundlecontainer=4,
+      largerchester=12,
+      largerdragonflychest=24,
+      largericebox=24,
+      largertreasurechest=20 
+    },
+    enabled=true 
+  } 
+}

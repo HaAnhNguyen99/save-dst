@@ -1,0 +1,4 @@
+[00:00:31]: [Join Announcement] Khanh1
+[00:01:15]: [Join Announcement] Mr.Ty
+[00:02:41]: [Leave Announcement] Mr.Ty
+[00:04:41]: [Leave Announcement] Khanh1

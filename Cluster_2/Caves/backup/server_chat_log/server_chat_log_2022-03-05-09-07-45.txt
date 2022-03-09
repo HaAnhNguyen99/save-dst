@@ -1,0 +1,7 @@
+[00:00:51]: [Join Announcement] Khanh1
+[00:01:18]: [Join Announcement] Mr.Ty
+[00:01:27]: [Join Announcement] khuongnguyen0723
+[00:09:43]: [Vote Announcement] rollback passed
+[00:09:53]: [Leave Announcement] Khanh1
+[00:10:08]: [Leave Announcement] khuongnguyen0723
+[00:10:08]: [Leave Announcement] Mr.Ty

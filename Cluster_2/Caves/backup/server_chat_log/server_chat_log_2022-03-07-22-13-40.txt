@@ -1,0 +1,23 @@
+[00:00:33]: [Join Announcement] Khanh1
+[00:05:13]: [Join Announcement] Mr.Ty
+[00:13:22]: [Join Announcement] khuongnguyen0723
+[00:17:13]: [Skin Announcement] khuongnguyen0723 body_tweedvest_grey_steel
+[00:18:37]: [Skin Announcement] Khanh1 legs_wickerbottom_yule
+[00:21:06]: [Death Announcement] khuongnguyen0723 was killed by Crawling Horror. She became a spooky ghost!
+[00:21:12]: [Resurrect Announcement] khuongnguyen0723 was resurrected by Life Giving Amulet.
+[00:22:43]: [Death Announcement] khuongnguyen0723 was killed by Terrorbeak. She became a spooky ghost!
+[00:22:54]: [Resurrect Announcement] khuongnguyen0723 was resurrected by Life Giving Amulet.
+[00:23:12]: [Death Announcement] khuongnguyen0723 was killed by Terrorbeak. She became a spooky ghost!
+[00:26:56]: [Vote Announcement] rollback passed
+[00:29:31]: [Skin Announcement] Mr.Ty pickaxe_invisible
+[00:30:31]: [Resurrect Announcement] khuongnguyen0723 was resurrected by Life Giving Amulet.
+[00:31:34]: [Death Announcement] khuongnguyen0723 was killed by Terrorbeak. She became a spooky ghost!
+[00:31:43]: [Resurrect Announcement] khuongnguyen0723 was resurrected by Life Giving Amulet.
+[00:49:50]: [Announcement] You feel an evil presence watching you...
+[00:50:00]: [Announcement] The Eye of Terror turns its gaze toward Mr.Ty
+[00:59:06]: [Death Announcement] Mr.Ty was killed by Ewecus. She became a spooky ghost!
+[00:59:52]: [Resurrect Announcement] Mr.Ty was resurrected by Life Giving Amulet.
+[01:00:46]: [Death Announcement] Mr.Ty was killed by Ewecus. She became a spooky ghost!
+[01:02:07]: [Resurrect Announcement] Mr.Ty was resurrected by Life Giving Amulet.
+[01:04:48]: [Leave Announcement] khuongnguyen0723
+[01:04:50]: [Leave Announcement] Mr.Ty
